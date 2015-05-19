@@ -50,6 +50,7 @@ Title        | title:"phrase"              | title:"weak lensing"    | search fo
 Keywords     | keyword:"phrase"            | keyword:sun             | search publisher- or author-supplied keywords 
 Database     | database:DB                 | database:astronomy      | limit search to either astronomy or physics or general
 Properties   | property:type               | property:openaccess     | limit search to article with specific attributes [see below.] (Querying for Properties.md)
+orcid        | orcid: number               | orcid: 0000-0001-4264-2450| returns papers where the publisher has provided an ORCID number for an author
 
 
 ##Combining Search Terms to Make a Compound Query
