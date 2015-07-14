@@ -4,10 +4,12 @@ title: "Quick Links"
 order: 5
 ---
 
-###*this article is in need of revision*
+##Quick Links
 
-Following each bibcode is a list of letters which indicate what data are available for the article.  
+Following each article in a search result there are symbols which indicate the availability of what information is available for the article.  
 
+Information is grouped into three categories: 
+* Full text resources 
  * C   (Citations)   A list of articles that cite the current article. (This list is not necessarily complete)
  * D   (On-line Data)  Links to on-line data at other data centers.
  * E   (Electronic Article)  Links to the on-line version of the article. These on-line versions are in HTML format for viewing on-screen, not for printing.
